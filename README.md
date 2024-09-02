@@ -4,7 +4,7 @@ Rossmann é uma empresa que atua ,desde 1972, no ramo farmacêutico sendo uma da
 # 1.Problema de Negócio
 A construção desse projeto é para a finalidade de prever, para as 6 semanas seguintes, a previsão de vendas da empresa Rossmann, que foi solicitada pelo CFO da empresa com o objetivo de, a partir do conhecimento do faturamento esperado, realizar uma reforma equivalente ao faturamento previsto nas proximas semanas. 
 
-# 2. Premissas do Negócio
+# 2. Planejamento do Negócio
 O planejamento da solução foi através da metodologia CRISP-DM que é um método cíclico e tem o objetivo orientar os passos a serem seguidos no projeto a fim de entregar ao final de cada ciclo, de forma rapida, insights para o negócio. 
 
 ![crisp_dm]( img/crisp_dm.png)
